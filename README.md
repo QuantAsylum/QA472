@@ -1,14 +1,12 @@
-# QA472-Draft
+# QA472
 
-Drafting documentation for the QA472
+[<img src="https://img.shields.io/badge/Read_The_QA472_Docs-ED6D68?style=for-the-badge" width="250"/>](https://QuantAsylum.github.io/QA472/)
 
-## View documentation
+## About
 
-Docs are being hosted (for now) at [https://excitonlabs.github.io/QA472-Draft](https://excitonlabs.github.io/QA472-Draft).
+This repo contains the raw files that mkdocs uses to geneate the documentation website. Do edit the documentation, you are in the correct place, to read the documentation you need to click the button (link) abouve.
 
-## Install mkdocs for Windows
-
-**It is not necessary for users to follow these steps. This short guide is for internal use.**
+## Editing the docs - Install mkdocs for Windows
 
 The installation process is quite straightforward and well documented here https://www.mkdocs.org/user-guide/installation/
 
