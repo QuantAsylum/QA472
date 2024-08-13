@@ -1,0 +1,40 @@
+site_name: QA472 Dual Low Noise Preamp
+repo_url: https://github.com/excitonlabs/QA472-Draft
+repo_name: QA472 Draft
+    
+theme:
+  name: material
+  palette:
+      primary: red
+  logo: img/logo.png
+  features:
+      - navigation.sections
+      - toc.integrate
+  
+nav:
+  - "Home": "index.md"
+  - "Documentation":
+    - "Preamp 1 (Op-amp)": "overview/pre1.md"
+    - "Preamp 2 (JFET)": "overview/pre2.md"
+    - "USB Power" : "overview/power.md"
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+ 
+plugins:
+  - offline
