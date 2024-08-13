@@ -4,7 +4,7 @@
 
 ## About
 
-This repo contains the raw files that mkdocs uses to geneate the documentation website. Do edit the documentation, you are in the correct place, to read the documentation you need to click the button (link) abouve.
+This repo contains raw files that mkdocs uses to geneate the documentation website. To edit the documentation, you are in the correct place. To read the documentation you need to click the button (link) above.
 
 ## Editing the docs - Install mkdocs for Windows
 
