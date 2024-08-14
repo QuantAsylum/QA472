@@ -2,7 +2,7 @@
 
 ![Screenshot](img/qa472_front_1024x1024.png)
 
-The QA472 is a two-channel low-noise microphone preamp. As a reference amplifier, it can be used for accurate and repeatable measurements of sound pressure level when combined with a calibrated microphone. It is compact, easily powered, and can be used on a bench or in a portable testing setup.
+The **QA472** is a two-channel low-noise microphone preamp. As a reference amplifier, it can be used for accurate and repeatable measurements of sound pressure level when combined with a calibrated microphone. It is compact, easily powered, and can be used on a bench or in a portable testing setup.
 
 Preamp 1 provides three selectable gain levels (0, 10, and 20 dB) to accommodate a variety of microphones, input levels, and the option for +48V phantom power.
 
